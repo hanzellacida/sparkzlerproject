@@ -1,0 +1,41 @@
+# Node modules directory
+node_modules/
+
+# Compiled CSS and JS files
+css/bootstrap.min.css
+css/style.css
+css/responsive.css
+js/jquery.min.js
+js/bootstrap.bundle.min.js
+js/jquery-3.0.0.min.js
+js/custom.js
+
+# Image files
+images/ORLE SODA logo.png
+images/Orle Soda loading.gif
+images/Orle Lemon.webp
+images/Orle Soda three.webp
+images/Orle Orange.webp
+
+# Environment files
+.env
+
+# Log files
+*.log
+
+# OS generated files
+.DS_Store
+
+# Build directories
+/dist/
+/build/
+
+# Temporary files and directories
+tmp/
+temp/
+*.tmp
+*.temp
+
+# Ignore IDE specific files
+.vscode/
+.idea/
